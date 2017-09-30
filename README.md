@@ -1,1 +1,1 @@
-"CAD Spider RoboCup 2017" 
+CAD Spider RoboCup 2017
